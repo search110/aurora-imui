@@ -6,7 +6,7 @@
 
     "repository": {
         "type": "git",
-        "url": "git@github.com:jpush/aurora-imui.git"
+        "url": "git@github.com:search110/aurora-imui.git"
     },
     "keywords": [
         "react",
@@ -16,7 +16,7 @@
     "author": "KenChoi, huminiOS",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/jpush/aurora-imui/issues"
+        "url": "httpshttps://github.com/search110/aurora-imui/issues"
     },
     "files": [
         "iOS/IMUICommon",
@@ -27,7 +27,7 @@
         "ReactNative/*.js",
         "ReactNative/package.json"
     ],
-    "homepage": "https://github.com/jpush/aurora-imui",
+    "homepage": "https://github.com/search110/aurora-imui",
     "rnpm": {
         "ios": {
             "sharedLibraries": [
