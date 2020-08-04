@@ -16,7 +16,7 @@
     "author": "KenChoi, huminiOS",
     "license": "ISC",
     "bugs": {
-        "url": "httpshttps://github.com/search110/aurora-imui/issues"
+        "url": "https://github.com/search110/aurora-imui/issues"
     },
     "files": [
         "iOS/IMUICommon",
