@@ -16,6 +16,7 @@ Pod::Spec.new do |s|
   s.source_files  = "apple/**/*.{h,m}"
 
   s.dependency 'React'
+  s.dependency 'RCTWebSocket'
   s.frameworks = 'RCTAuroraIMUI'
   s.static_framework = true
 end
