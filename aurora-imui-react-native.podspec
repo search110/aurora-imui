@@ -16,5 +16,6 @@ Pod::Spec.new do |s|
   s.source_files  = "apple/**/*.{h,m}"
 
   s.dependency 'React'
-  s.vendored_frameworks = 'RCTAuroraIMUI.framework'
+  s.frameworks = 'RCTAuroraIMUI'
+  s.static_framework = true
 end
